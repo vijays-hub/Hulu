@@ -1,0 +1,6 @@
+/* React Flip Move adds an extra div around the VIDEOCARD component. So targeting it */
+.results > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
